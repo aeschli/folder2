@@ -1,0 +1,3 @@
+[submodule "typescripterrors"]
+	path = typescripterrors
+	url = https://github.com/aeschli/typescripterrors.git
